@@ -1,0 +1,16 @@
+.information{
+	min-height:213px;
+	width:100%;
+}
+.moreNews{
+	float:right;
+}
+.news{
+	float:left;
+}
+.clear{
+		clear:both;
+}
+.newsheight{
+	height:45px;	
+}

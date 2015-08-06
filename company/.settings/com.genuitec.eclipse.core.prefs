@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot/web_backstage,WebRoot/web_ui/js,WebRoot/web_login
+validator.Unchecked=
